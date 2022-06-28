@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **EveLopz/EveLopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sofia Arriola, I'm Backend Developer in process...
+Mi nombre es Sofia Arriola, y soy Backend Developer en proceso..
 
-
-- 🌱 I’m currently learning JAVA, PHP.
-- 💬 Ask me about C#, PHP and Laravel.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/evelyn-lopez-38b892238"> <img scr="https://user-images.githubusercontent.com/97250506/176092859-4e62cf9d-863d-4b43-98c6-8de69b1f0c79.png" width="20px"></a>
+----
+- 🌱 Actualmente estoy aprendiendo JAVA, PHP.
+- 💬 Tengo conocimiento intermedio de C#, PHP y Laravel.
+- 📫 Puedes encontrarme en: <a href="https://www.linkedin.com/in/evelyn-lopez-38b892238"> <img src="" width="20px"></a>
+----
