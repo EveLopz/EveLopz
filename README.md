@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 Mi nombre es Sofia Arriola, y soy Backend Developer en proceso..
 
 ----
-- 🌱 Actualmente estoy aprendiendo JAVA, PHP.
-- 💬 Tengo conocimiento intermedio de C#, PHP y Laravel.
+- 🌱 Actualmente estoy aprendiendo un nivel basico de Python.
+- 💬 Tengo conocimiento basico de en lenguajes PHP, C# y .NET (ASP.NET, Framework 4.5), JAVA y JAVA Web (usando JSP, MVC y Servlet).
+- 💬 Tengo conocimiento basico en manejo de Base de Datos Relacionales MySQL y SQL Server.
+- 💬 Tengo conocimiento basico en creación de APP Móviles.
 - 📫 Puedes encontrarme en: 
    - <a href="https://www.linkedin.com/in/evelyn-lopez-38b892238">***LinkedIn***<img src="https://github.com/EveLopz/EveLopz/blob/main/icons/LinkedIn.png" width="20px"></a>
 ----
